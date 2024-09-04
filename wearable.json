@@ -1,0 +1,30 @@
+{
+  "data": {
+    "replaces": [],
+    "hides": [],
+    "tags": [
+      "skin",
+      "smartwearable",
+      "meta gamimall"
+    ],
+    "representations": [
+      {
+        "bodyShapes": [
+          "urn:decentraland:off-chain:base-avatars:BaseMale",
+          "urn:decentraland:off-chain:base-avatars:BaseFemale"
+        ],
+        "mainFile": "CoinsBagV2.glb",
+        "contents": [
+          "CoinsBagV2.glb"
+        ],
+        "overrideHides": [],
+        "overrideReplaces": []
+      }
+    ],
+    "category": "earring"
+  },
+  "id": "4e97cd12-d7b3-4d70-bdf2-5e03d164eee2",
+  "name": "Meta GamiMall Coins Bag V2",
+  "description": "Collect coins wherever you like in Decentraland",
+  "rarity": "common"
+}
